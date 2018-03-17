@@ -10,6 +10,7 @@
     "test": "jest && standard"
   },
   "dependencies": {
+    "make-empty-github-commit": "^1.2.0",
     "probot": "^6.0.0",
     "probot-scheduler": "^1.0.3"
   },
